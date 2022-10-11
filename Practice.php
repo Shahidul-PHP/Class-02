@@ -33,7 +33,7 @@ echo '</br>';
 
 
 function addition(){
-    echo "Function is working";
+    echo "Function is working Properlly";
 }
 
 addition(); echo '</br>';
@@ -80,19 +80,6 @@ echo '</br>';
 $pass = 3131268;
 
 echo password_hash($pass, PASSWORD_DEFAULT);
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ?>
