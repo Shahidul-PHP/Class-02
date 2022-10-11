@@ -2,9 +2,8 @@
 //Home Task - 02
 /*  
     01. Create a Grading System
-    02. Check Letter Voiel or Consonent
 */
-$marks = 60;
+$marks = 80;
 
 if($marks >= 80 && $marks <= 101 ){
     echo "Your Grade is A+ and Point is 5.00";
